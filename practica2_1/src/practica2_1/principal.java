@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @see ejercicios#esPar(int) 
  * @see ejercicios#multiplicacion(int) 
  * @see ejercicios#numeroCifras(int) 
- * */
+ **/
 
 public class principal{
 
