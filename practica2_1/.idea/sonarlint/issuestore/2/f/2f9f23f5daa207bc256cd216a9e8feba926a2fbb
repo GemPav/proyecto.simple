@@ -1,0 +1,25 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅªäŞ8Ã‡ÂŠ‚/
+=
+java:S3626J"Remove this redundant jump.(Œæ‹øÿÿÿÿ8Ã‡ÂŠ‚/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ª£›?8®¾ÂŠ‚/
+O
+java:S1199)"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8®¾ÂŠ‚/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û£Â8Ã‡ÂŠ‚/
+O
+java:S1199="-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8®¾ÂŠ‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì“›¨8Ã‡ÂŠ‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ìª8®¾ÂŠ‚/
+>	java:S131(""Add a default case to this switch.(°€àâ8®¾ÂŠ‚/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ï–Úİüÿÿÿÿ8®¾ÂŠ‚/
+m	java:S1283"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ8®¾ÂŠ‚/
+m	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(·ÿ½äûÿÿÿÿ8®¾ÂŠ‚/
+O
+java:S11993"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8®¾ÂŠ‚/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñÑÍûÿÿÿÿ8Ã‡ÂŠ‚/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¤¼æ¶8®¾ÂŠ‚/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(Ùï¥æùÿÿÿÿ8®¾ÂŠ‚/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û—¶×ÿÿÿÿÿ8Ã‡ÂŠ‚/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§ğš’úÿÿÿÿ8®¾ÂŠ‚/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(êÈÓ8®¾ÂŠ‚/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÆ¤°ûÿÿÿÿ8®¾ÂŠ‚/
